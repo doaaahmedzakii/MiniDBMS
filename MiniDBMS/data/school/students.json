@@ -1,0 +1,11 @@
+{
+  "name": "students",
+  "columns": ["id", "name", "grade"],
+  "types": ["INT", "STRING", "STRING"],
+  "rows": [
+    ["1", "Ahmed", "90"],
+    ["2", "Omar", "80"],
+    ["3", "Sara", "95"],
+    ["4", "Ahmed", "90"]
+  ]
+}
